@@ -48,7 +48,7 @@ print(x)
 ```
 
 ## Output:
-![Uploading image.png…]()
+<img width="904" height="566" alt="image" src="https://github.com/user-attachments/assets/afced7f7-cefa-4029-8098-c12665bdd8ee" />
 
 
 
