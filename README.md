@@ -20,8 +20,8 @@ Step 4: print result
 (i) To find the L and U matrix
 ```
 Program to find L and U matrix using LU decomposition.
-Developed by: HARI PRASATH P
-RegisterNumber: 212224230084
+Developed by: SAMEER SHARIFF M
+RegisterNumber: 212224220085
 
 import numpy as np
 from scipy .linalg import lu
